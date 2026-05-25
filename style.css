@@ -1,0 +1,7 @@
+h1 {font-size: 250%;
+    color: rgb(150, 130, 236);
+}
+h1 {border-style: groove;
+border-color: rgb(45, 56, 121);
+border-width: 5px;
+}
